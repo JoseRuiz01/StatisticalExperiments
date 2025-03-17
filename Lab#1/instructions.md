@@ -1,4 +1,4 @@
-Lab #1: Basic Data Manipulation and graphics (with R)
+# Lab #1: Basic Data Manipulation and graphics (with R)
 
 Paris paintings data set:
 These data about Paris paintings were collected by Hilary Coe Cronheim and Sandra van Ginhoven (Duke Art, Art History & Visual Studies PhD students) as part of the Data Expeditions project sponsored by Information Initiative at Duke University. 
