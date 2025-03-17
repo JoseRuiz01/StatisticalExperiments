@@ -18,9 +18,9 @@ The objective of these first hands-on sessions is to practise basic inspection, 
 
 Data sets:
 - `cereal.txt`
-- description (from STATLIB, starting at bottom of page 1)
+- `Cereal_description` (from STATLIB, starting at bottom of page 1)
 - `hbat.csv`
-- description
+- `HBAT_description`
 
 R Script files: 
 - `Lab#0a.R` 
