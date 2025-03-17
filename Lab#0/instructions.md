@@ -1,4 +1,4 @@
-Lab #0: Basic Data Manipulation and graphics (with R)
+# Lab #0: Basic Data Manipulation and graphics (with R)
 
 The objective of these first hands-on sessions is to practise basic inspection, exploration and data visualization (graphs) with R.
 
