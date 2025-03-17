@@ -2,9 +2,9 @@
 
 The objective of these first hands-on sessions is to practise basic inspection, exploration and data visualization (graphs) with R.
 
-Reading data from text or csv files (mainly tabular data)
-Types of variables
-Dealing with missing values: slides
+- Reading data from text or csv files (mainly tabular data)
+- Types of variables
+- Dealing with missing values (`dealing_with_missing_values`)
 
 Some references:
 https://sci2s.ugr.es/MVDM
