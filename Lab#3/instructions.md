@@ -1,4 +1,4 @@
-Lab #3: Basic Data Manipulation and graphics (with R)
+# Lab #3: Basic Data Manipulation and graphics (with R)
 
 Data sets:
 
