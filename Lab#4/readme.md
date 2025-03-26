@@ -1,6 +1,6 @@
 # Lab # 4: Multivariate descriptive statistics: an exploratory analysis to detect interesting correlations, non normality and outliers.
 
-### 1. Outline:
+### 1. Outline (explained in ``outline.pdf``):
 Mean vector, variance covariance matrix S, pairwise correlation matrix R. Properties and eigenanalysis
 Partial correlations
 Overall  dependence measure, multiple correlation coefficient
