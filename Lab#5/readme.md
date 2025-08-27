@@ -1,4 +1,4 @@
-## Lab # 5. PCA and biplots:
+# Lab # 5. PCA and biplots:
 
 R has the default built-in functions for PCA, prcomp() and princomp(). We are using package FactoMineR  (Husson, Josse, Le, Mazet) and some other complements as factoextra, gridExtra, ggplot2 and GGally.
 
