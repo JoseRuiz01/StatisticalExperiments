@@ -5,14 +5,14 @@ R has the default built-in functions for PCA, prcomp() and princomp(). We are us
 The data set we are using is a subset of our cereal data containing variables calories, carbohydrates, fat, fiber, potassium, protein, sodium, sugar and shelf. This last is going to be used as a supplementary qualitative variable to help us interpret the output.
 
 ### 1. Data set: 
-                    - *cerealdata.txt* (text).
+                    - cerealdata.txt (text).
                     - microarray data (R format)
-                    - PCA.RData (R format) (you need this)
+                    - PCA.RData (R format)
 
 ### 2. Script for this session: 
-                    - *PCA_Lab.R* (you need this)
+                    - PCA_Lab.R (you need this)
 
-### 3. Rough conclussions from PCA session in *"conclussions"*.
+### 3. Rough conclussions from PCA session in "conclussions".
 
 ### 4. Very interesting application of PCA.
 
